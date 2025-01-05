@@ -1682,6 +1682,9 @@ a {
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
+.cid-uyNXiurcIf .row {
+  flex-direction: row-reverse;
+}
 .cid-uyNXiurcIf .mbr-section-title {
   color: #4479d9;
 }
